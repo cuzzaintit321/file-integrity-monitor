@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+baselines/
+reports/
+demo/
+*.baseline.json
+*.report.json
+.env
