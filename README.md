@@ -1,5 +1,7 @@
 # File Integrity Monitor
 
+![file-integrity-monitor project banner](docs/project-banner.webp)
+
 A dependency-free **Python** CLI that snapshots SHA-256 checksums and file permissions, then reports added, missing, and changed files. A new learning and portfolio project built for Jason Edwards, not a claim of production deployment or employer use.
 
 ## Run a complete example
